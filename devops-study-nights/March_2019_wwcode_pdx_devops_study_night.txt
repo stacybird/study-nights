@@ -1,0 +1,77 @@
+Text outline:
+
+DevOps Study Night: Interviewing for DevOps
+Wednesday, March 6th 2019 @ Vevo
+Stacy Watts
+Senior MSS Platform Engineer
+
+You are
+Incredibly comfortable with change 
+Comfortable driving cultural changes
+Good working with other teams
+You know
+Linux Fundamentals + Scripting
+Tools/Tech knowledge base
+CI/CD experience
+IAC (Infrastructure as Code)
+DevOps Key Concepts
+Soft Skills
+Your most overlooked skill
+How to say "I don’t know”
+Example questions
+How do DevOps & Agile differ?
+What is the need for DevOps?
+Which are the top DevOps tools? Which tools have you worked on?
+Git : Version Control System tool
+Jenkins : Continuous Integration tool
+Selenium : Continuous Testing tool
+Puppet, Chef, Ansible : Configuration Management and Deployment tools
+Nagios : Continuous Monitoring tool
+Docker : Containerization tool
+How do all these tools work together?
+Example questions
+Why DevOps?  What do we get?
+Continuous software delivery
+Less complex problems to fix
+Faster resolution of problems
+Faster feature delivery
+More stable operational environments
+More time for value add (less on maintain)
+Work smarter not more
+Example questions
+Explain from your own experience how DevOps can be used in industry/ real-life.
+If you don’t have this example, don’t worry, say so.  
+Explain how you would think about solving problems this way. 
+Remember, they want to see how you interact and think.
+Are there any anti-patterns with DevOps?
+Agile == Devops
+DevOps is a separate group
+DevOps will solve all problems
+DevOps means devs managing prod
+Development driven
+IT driven
+Can’t be done
+Social stuff
+LinkedIn stalk the company
+Interviewers
+Teammates
+CEO + execs  
+Do this even if you don’t know or expect to ever talk to them.  
+		Some notice, and you get a +1
+You also might run into them in the hall - you never know what will give you an edge in a human situation, knowing their background might
+Review the company site, marketing
+Review benefits packages
+Review Glassdoor reviews 
+Prep questions with any red flags so you know what you’re in for
+
+Day of Prep
+Breathe, Hydrate 
+plan to be talking all interview/day (until the Vulcans can just mind-meld our skillset)
+Onsite: Plan your route out at least the day before
+
+References + Practice
+https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/
+https://www.edureka.co/blog/what-is-devops/
+https://xebialabs.com/periodic-table-of-devops-tools/
+The Phoenix Project (Book)
+
