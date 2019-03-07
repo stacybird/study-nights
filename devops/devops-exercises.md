@@ -1,4 +1,7 @@
 
+### Interviewing for DevOps - March 2019
+- [Interviewing for DevOps](../devops-study-nights/March_2019_wwcode_pdx_devops_study_night.pdf) - by Stacy Watts
+
 ### DevOps tools + Kubernetes - January 2019
 - [Intro to Kubernetes](../devops-study-nights/January_2019_wwcode_pdx_devops_study_night.pdf) - by Stacy Watts and Tricia Radcliffe
 
